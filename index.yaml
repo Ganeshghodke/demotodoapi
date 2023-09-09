@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  todoAPI:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-09T04:55:05.821448744-04:00"
+    description: A Helm chart for Kubernetes
+    digest: fcf6f7233a5548c21b950d2ee127087c5e4390465099a7ce671882499f80179d
+    name: todoAPI
+    type: application
+    urls:
+    - https://ganeshghodke.github.io/demotodoapi/todoAPI-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-09T04:55:05.819697012-04:00"
